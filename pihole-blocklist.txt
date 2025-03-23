@@ -216,7 +216,6 @@
 ||r5---sn-n4v7sn7s.googlevideo.com^
 ||r6---sn-n4v7sn7l.googlevideo.com^
 ||ytimg.com^
-||youtubei.googleapis.com^
 ||youtube-nocookie.com^
 
 # Instagram
