@@ -284,7 +284,7 @@ r6---sn-n4v7sn7l.googlevideo.com
 
 # Reddit
 
-0.0.0.0 reddit.com
-0.0.0.0 redditstatic.com
-0.0.0.0 redditmedia.com
-0.0.0.0 redd.it
+||reddit.com^
+||redditstatic.com^
+||redditmedia.com^
+||redd.it^
