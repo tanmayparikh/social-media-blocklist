@@ -1,7 +1,6 @@
 # Youtube
 
 ||youtube.com^
-||googlevideo.com^
 
 # Instagram
 
